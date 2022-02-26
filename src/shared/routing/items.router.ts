@@ -1,9 +1,9 @@
 /**
  * Required External Modules and Interfaces
  */
-import express, { Request, Response } from "express";
-import { IBaseItem, IItem } from "../models/item.interface";
-import * as ItemService from "../services/items.service";
+import express, { Request, Response } from 'express';
+import { IBaseItem, IItem } from '../models/item.interface';
+import * as ItemService from '../services/items.service';
 
 /**
  * Router Definition
